@@ -1,6 +1,6 @@
 ﻿<div align=center>
  
-# 🚀 ZxCDDoS: Release v1.4 - Free DDoS Panel 🚀
+# 🚀 LitteboyDDoS: Release v1.4 - Free DDoS Panel 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/Long190/LitteboyDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -74,8 +74,8 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
-cd ZxCDDoS/
+git clone https://github.com/Nguyenlong999/LitteboyDDoS/
+cd LitteboyDDoS/
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
@@ -117,5 +117,6 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @Nlong2905 Zalo: zalo.me/nlong2905
+Telegram: @Nlong2905 
+Zalo: zalo.me/nlong2905
 ```
